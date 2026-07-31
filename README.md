@@ -35,11 +35,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marufemon1025&show_icons=true&theme=radical" alt="Maruf's GitHub stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marufemon1025&theme=radical" alt="Maruf's GitHub streak" />
