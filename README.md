@@ -9,7 +9,7 @@
 
 ---
 
-### 🧠 Programming Languages
+## 🧠 Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -53,4 +53,4 @@
 
 ---
 
-<p align="center"><B>Thanks for visiting my profile! ⭐ Feel free to check out my repositories below.</B></p>
+<p align="center"><B>Thanks for visiting my profile!  Feel free to check out my repositories below.</B></p>
