@@ -53,4 +53,4 @@
 
 ---
 
-<p align="center"><i>Thanks for visiting my profile! ⭐ Feel free to check out my repositories below.</i></p>
+<p align="center"><B>Thanks for visiting my profile! ⭐ Feel free to check out my repositories below.</B></p>
